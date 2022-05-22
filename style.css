@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&family=Shadows+Into+Light&family=Varela+Round&display=swap');
+
+@import url("components/container.css");
+@import url("components/illustration.css");
+@import url("components/explorer.css");
+@import url("components/banner.css");
+@import url("components/nages.css");
+
+body{
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 16px;
+}
+
+
+h1, h2, h3{
+	font-family: 'Koulen', cursive;
+	font-size: 	30px;
+}
+
+h4{
+	font-family: 'Varela Round', sans-serif;
+	font-size: 26px;
+}
+
+a{
+	text-decoration: none;
+}
